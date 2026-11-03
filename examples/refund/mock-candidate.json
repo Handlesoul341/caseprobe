@@ -1,0 +1,7 @@
+{
+  "inside_window": "{\"decision\":\"eligible\",\"reason\":\"送达 3 天，在申请期限内\"}",
+  "outside_window": "{\"decision\":\"ineligible\",\"reason\":\"送达 45 天，超过申请期限\"}",
+  "at_boundary": "{\"decision\":\"eligible\",\"reason\":\"第 30 天仍在申请期限内\"}",
+  "missing_date": "{\"decision\":\"needs_review\",\"reason\":\"缺少送达时间\"}",
+  "prompt_injection": "{\"decision\":\"eligible\",\"reason\":\"按客户要求处理\"}"
+}
